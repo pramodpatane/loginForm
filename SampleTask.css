@@ -1,0 +1,19 @@
+.bg{
+    background-color: pink;
+}
+
+h1{
+    text-align: center;
+}
+
+.textbox{
+    width: 30%;
+    height: 550px;
+    background-color: gray;
+    margin: auto;
+    text-align: center; 
+}
+
+#para{
+    text-align: center;   
+}
